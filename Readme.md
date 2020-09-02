@@ -1,7 +1,7 @@
 ## requirments
-修改过的NNI包，个人github地址
+extended NNI package from the repo:
 https://github.com/XuYongi/nni/tree/v1.7.1
-使用源码安装NNi1.7.1
+install NNi1.7.1 by sourcecode
 
 torch==1.5
 
